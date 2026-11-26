@@ -4,6 +4,8 @@ Prepared by Kidus · 26 November 2026
 
 **Scoring sheet for Tasks 3 and 4:** [Ivy eval scoring sheet](https://docs.google.com/spreadsheets/d/1lKSXelr2JLTVitRUuPab9uEbaOF2YoRoqcUobUsESfs/edit)
 
+**Code and data (GitHub):** [github.com/kidusw/lumen-ivy-delivery-challenge](https://github.com/kidusw/lumen-ivy-delivery-challenge)
+
 **Data used:** the Lumen Data Extract, including the fact sheet, the email thread, Conversations (429 Ivy messages, 19 Oct to 19 Nov 2026), Leads (250 leads), Owner complaints, Vendor eval and the Eval set. The "Evidence" tab of the scoring sheet shows how each number was counted.
 
 ---
